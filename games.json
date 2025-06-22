@@ -142,5 +142,12 @@
     "icon": "https://myveryownteardrop.xyz/images/Logo.png",
     "name": "My teardrop",
     "creator": "Vendorment"
+  },
+  {
+    "id": "game_my_game",
+    "url": "https://github.com/Visnalize/resources.git",
+    "icon": "https://github.com/Visnalize/resources.git",
+    "name": "My game",
+    "creator": "Karthik"
   }
 ]
