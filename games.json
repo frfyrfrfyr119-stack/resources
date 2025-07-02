@@ -142,5 +142,12 @@
     "icon": "https://myveryownteardrop.xyz/images/Logo.png",
     "name": "My teardrop",
     "creator": "Vendorment"
+  },
+  {
+    "id": "game_minecraft",
+    "url": "https://www.minecraft.net/",
+    "icon": "https://www.minecraft.net/",
+    "name": "Minecraft",
+    "creator": "Mojang studio"
   }
 ]
