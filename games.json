@@ -142,5 +142,12 @@
     "icon": "https://myveryownteardrop.xyz/images/Logo.png",
     "name": "My teardrop",
     "creator": "Vendorment"
+  },
+  {
+    "id": "game_my_awesome_game",
+    "url": "https://play.google.com/store/apps/details?id=com.innersloth.spacemafia",
+    "icon": "https://www.google.com/search?client=ms-android-vivo-terr1-rso2&sca_esv=a09a5982d5f07aee&sxsrf=AE3TifMAmADtwMmIO-qh6hMyCBV93S32NA:1751786540056&udm=2&fbs=AIIjpHyTFN8BbSyNXQ3oA-fn7H5NUrrIpQXg7ywPuzBdcoqHY9koTyP2YoWqyTioW_DKM8fobnJ8kSXcS-XenzerWcPYEnt5Dp_oGyUscMS1k34-PyVH9v9RTMDmwCCnRZ71tcE_ExHgZKxB6YZHBp2ZBdd6_ppUf3sKj9gimEVfd3oeMPDUPIhAJ9N0yYxy8EO4JYexJUDL5xp6Ay7m9Ho79V73SfPywo5QLXvZ2fTV53LiA79JZhI&q=among+us+game+icon&sa=X&ved=2ahUKEwiD0MSz2aeOAxWfS2cHHVRBHvQQtKgLegQIExAB&biw=436&bih=854&dpr=2.48",
+    "name": "My awesome game",
+    "creator": "American game studio Innersloth"
   }
 ]
