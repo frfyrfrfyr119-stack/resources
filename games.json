@@ -149,5 +149,12 @@
     "icon": "https://upload.wikimedia.org/wikipedia/en/e/e2/Diepio_mobile_logo.webp",
     "name": "diep.io",
     "creator": "Matheus Valadares"
+  },
+  {
+    "id": "game",
+    "url": "https://yandex.ru/games/",
+    "icon": "https://free-png.ru/yandeks-igry-igrat-besplatno-igry/",
+    "name": "Больше игр",
+    "creator": "Yandex"
   }
 ]
